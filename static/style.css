@@ -1,0 +1,22 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2d9f3;
+}
+
+#projects {
+    background-color: #e2d9f3;
+}
+
+.comments {
+    margin-top: 20px;
+}
+
+.comments1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+section {
+    padding-top: 5rem;
+}
